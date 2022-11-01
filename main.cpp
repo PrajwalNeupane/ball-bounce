@@ -25,7 +25,7 @@ int main(void)
         /* Render here */
         glClear(GL_COLOR_BUFFER_BIT);
         glBegin(GL_TRIANGLES);
-        glVertex2f(-1f, -0.5f);
+        glVertex2f(-0.7f, -0.5f);
         glVertex2f(0.0f, 0.5f);
         glVertex2f(0.5f, -1f);
         
